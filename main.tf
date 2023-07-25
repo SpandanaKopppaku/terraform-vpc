@@ -1,3 +1,3 @@
 module "aws_vpc" {
-  source = "https://github.com/SpandanaKopppaku/tf-module-vpc.git" 
+  source = "git::https://github.com/SpandanaKoppaku/tf-module-vpc.git" 
 }
