@@ -1,0 +1,1 @@
+Variable "VPC_CIDR" {} 
